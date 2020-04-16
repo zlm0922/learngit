@@ -1,1 +1,3 @@
 Could not open SDE workspace.
+
+Could not open SDE workspace too.
